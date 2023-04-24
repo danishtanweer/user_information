@@ -4,7 +4,7 @@ This repository contains an Angular application that allows users to fetch all u
 Installation
 To run this application, you need to have Node.js and npm installed on your machine.
 
-Clone this repository to your local machine using git clone https://github.com/danishtanweer/pwc.git.
+Clone this repository to your local machine using git clone "https://github.com/danishtanweer/user_information_pwc.git".
 Change into the project directory using "cd pwc".
 Run npm install to install the necessary dependencies.
 
